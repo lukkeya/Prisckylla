@@ -1,3 +1,4 @@
+//sistema para simular o comportamento de registradores e memória	
 #include<stdio.h>
 #include<locale.h>
 #include<conio.h>
